@@ -1,4 +1,6 @@
-## Download This Code and just Install Composer just Write in command line composer install
+## Website Using Laravel Frame Work
+### This Simple Complete Website Where You can add employee and You Can Add Company Record Also 
+## Just Download this Code import Database File Database name Should be crudapplication and install composer and Run This Project
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
