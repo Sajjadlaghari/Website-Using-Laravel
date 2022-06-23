@@ -1,7 +1,10 @@
 # Website Using Laravel Frame Work
  This Simple Complete Website Where You can add employee and You Can Add Company Record Also 
  Just Download this Code import Database File Database name Should be crudapplication and install composer and Run This Project
-
+<p align="center">
+  <img src="C:\Users\Sajjad Sindhi\Pictures\Screenshots.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 ## About Laravel
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
